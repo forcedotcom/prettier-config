@@ -7,20 +7,20 @@
     "prettier"
   ],
   "author": "Thomas <t.dvornik@salesforce.com>",
-  "homepage": "https://github.com/forcedotcom/sfdx-dev-packages#readme",
+  "homepage": "https://github.com/forcedotcom/prettier-config#readme",
   "license": "BSD-3-Clause",
   "main": "prettier-config.js",
   "files": [
     "prettier-config.js"
   ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/forcedotcom/sfdx-dev-packages.git"
-  },
+  "repository": "forcedotcom/prettier-config",
   "bugs": {
-    "url": "https://github.com/forcedotcom/sfdx-dev-packages/issues"
+    "url": "https://github.com/forcedotcom/prettier-config/issues"
   },
   "publishConfig": {
     "access": "public"
+  },
+  "scripts": {
+    "build": "echo 'no build necessary'"
   }
 }
