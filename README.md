@@ -18,4 +18,4 @@ Here is an example using a `.prettierrc.json` file.
 "@salesforce/prettier-config"
 ```
 
-**Note:** You can use [@salesforce/dev-scripts](../dev-scripts) to set this up along with all other configuration files related to a Salesforce typescript project.
+**Note:** You can use [@salesforce/dev-scripts](https://github.com/forcedotcom/dev-scripts/) to set this up along with all other configuration files related to a Salesforce typescript project.
