@@ -21,7 +21,7 @@
     "access": "public"
   },
   "scripts": {
-    "build": "echo 'no build necessary'"
+    "build": "echo 'no build necessary'",
     "test": "echo 'no tests necessary'"
   }
 }
