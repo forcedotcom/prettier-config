@@ -8,7 +8,7 @@
   ],
   "author": "Thomas <t.dvornik@salesforce.com>",
   "homepage": "https://github.com/forcedotcom/prettier-config#readme",
-  "license": "BSD-3-Clause",
+  "license": "Apache-2.0",
   "main": "prettier-config.js",
   "files": [
     "prettier-config.js"
