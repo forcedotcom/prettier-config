@@ -1,19 +1,13 @@
-# Change Log
-
-All notable changes to this project will be documented in this file.
-See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
-
-## [0.0.2](https://github.com/forcedotcom/sfdx-dev-packages/compare/@salesforce/prettier-config@0.0.1...@salesforce/prettier-config@0.0.2) (2021-02-19)
+## [0.0.4](https://github.com/forcedotcom/prettier-config/compare/0.0.3...0.0.4) (2025-08-29)
 
 
 ### Bug Fixes
 
-* testing and linting on windows ([a906fb8](https://github.com/forcedotcom/sfdx-dev-packages/commit/a906fb8da95e194a32ed768f84d6e9c7cbb6e9c6))
+* oss compliance ([6ad0de2](https://github.com/forcedotcom/prettier-config/commit/6ad0de2dedf5745be9878361ddabf566cb39108c))
 
 
 
+## 0.0.3 (2023-05-12)
 
 
-## 0.0.1 (2020-07-21)
 
-**Note:** Version bump only for package @salesforce/prettier-config
